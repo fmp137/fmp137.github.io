@@ -1,0 +1,3 @@
+RECORDAR QUE HE MODIFICADO DEL CSS LA SIGUIENTE LÍNEA AGREGANDO UNA IMAGEN: background: linear-gradient(rgba(33, 30, 28, 0.7), rgba(33, 40, 28, 0.7)), url(../img/carousel-1.jpg), no-repeat center center;
+
+Recordar que e modificado para que al escribir en el formulario, sea de color blanco.
